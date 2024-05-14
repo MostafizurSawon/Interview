@@ -1,0 +1,5 @@
+Abstract Class vs Interface
+1. An ethereal characteristic An interface's methods are all abstract, while a developer's class may contain both concrete and abstract methods.
+2. It is employed when all objects have a common feature, as opposed to when each feature needs to be implemented uniquely for each object.
+3. For the features of an abstract class, it is the developer's job to construct a child class; nevertheless, any third party will be in charge of doing so.
+4. It is relatively quick in comparison to the interface, which is relatively slow.
