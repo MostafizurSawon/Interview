@@ -1,3 +1,7 @@
+My task: https://docs.google.com/document/d/1mGlyqe7dkKOvtres-AIm5jsgHYJV3KyCFikmtO0WLi4/edit?usp=sharing
+
+
+
 1) Example for below topic both c++ and python.
     OOP:
     1) Class

@@ -3,7 +3,6 @@ using namespace std;
 
 class Employee {
   private:
-    // Private attribute
     int salary;
 
   public:

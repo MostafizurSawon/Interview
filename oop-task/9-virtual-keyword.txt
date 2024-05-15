@@ -1,0 +1,7 @@
+A member function that is declared inside a base class and is re-defined (overridden) by a derived class is referred to as a virtual function (sometimes called a virtual method). We can call a virtual function for an object of a derived class and carry out the method's implementation specific to the derived class when you refer to that object using a pointer or reference to the base class.
+
+Regardless of the kind of reference (or pointer) used for the function call, virtual functions guarantee that the appropriate function is called for an object.
+Their primary purpose is to accomplish runtime polymorphism.
+
+In a base class, functions are declared using the virtual keyword.
+A function call is resolved at runtime.

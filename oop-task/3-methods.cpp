@@ -11,8 +11,8 @@ class NewClass
 };
 
 int main() {
-  NewClass a1;     // Create an object of MyClass
-  a1.welcome();  // Call the method
+  NewClass a1;     
+  a1.welcome(); 
   
   return 0;
 }
